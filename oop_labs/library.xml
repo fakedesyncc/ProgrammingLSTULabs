@@ -1,0 +1,6 @@
+<Library Name="City Library">
+  <Section Name="Fiction">
+    <Book Title="1984" Author="George Orwell" />
+    <Book Title="Brave New World" Author="Aldous Huxley" />
+  </Section>
+</Library>

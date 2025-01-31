@@ -1,0 +1,12 @@
+<Symbols>
+<Symbol>
+  <Name>BasicSymbol</Name>
+  <Description>A simple symbol</Description>
+</Symbol>
+<GraphicSymbol>
+  <Name>GraphicSymbol</Name>
+  <Description>A graphic symbol</Description>
+  <Color>Red</Color>
+  <Size>10</Size>
+</GraphicSymbol>
+</Symbols>
